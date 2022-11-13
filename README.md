@@ -2,4 +2,4 @@
 
 **Partners:** n/a. Worked alone. Gunwoo Kim
 
-**Pages:** // TODO: add github pages url
+**Pages:** https://ereasai.github.io/Lab7_Starter/
